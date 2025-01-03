@@ -73,7 +73,7 @@ Follow these steps to run the project locally:
 ---
 
 ## 🌐 **Live Demo**
-Access the live version of the platform [here](https://share.streamlit.io/riyabasu06/interactive-sql-learning).
+Access the live version of the platform [here](https://interactive-sql-learning.streamlit.app/).
 
 ---
 
